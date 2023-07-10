@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm fullstack developer on KairosDS (BBVA Mexico) ❤️</div>  
+### <div align="center">I'm fullstack developer on BBVA Mexico ❤️</div>  
   
 
 - 💻 I have been working since 2017 as a developer  
